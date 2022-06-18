@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Ejemplo para párrafo</p>
       </header>
     </div>
   );
